@@ -71,10 +71,51 @@ quickly(adverb) is placed in between Angela(subject) and trimmed(verb) which is 
 
 In second sentence, quickly(adverb) added at the end of subject. which is sound awkward. 
 
-
 ~~~
 
 
+** Its more straightforward to keep adverb and verb together **
+
+To keep your writings straightforward and easy to understand, keep your subject close to the beginning of the sentence and keep words that act together, close together.   
+
+
+## How to write with rhythm and style 
+
+~~~bash
+Bodie, is a dog, and he likes to run 
+
+Here `and` is conjunction which connect 2 sentences
+~~~
+
+### Transition words
+* Therefore
+* Nevertheless
+* Similarly
+
+~~~bash
+## Complex sentence 
+Bodie like to lie in the sun after the tires himself out chasing a ball
+~~~
+here      
+`Bodie like to lie in the sun` main clause
+and 
+`after the tires himself out chasing a ball` is dependent clause        
+
+### long sentenceS
+
+* Convey complex information 
+* Explain a series of events
+* Add variety to your writing 
+
+### short sentences and Fragments
+
+* Best for important points (to make standout)
+* Provide strong emphasis (Like this)
+~~~bash
+Bodie always wants treats. More treats.
+~~~
+
+short sentence `More treats` emphasis the Bodie's wants and it makes it standout. Its not a complete sentence. Its a Fragment     
 
 
 
