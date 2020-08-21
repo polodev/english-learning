@@ -11,8 +11,8 @@
 
 Active Sentence increase reading comprehension.    
 
-> - Active Sentence
 > keeps the person (or thing) that is doing something in the subject position in the sentence
+> - Active Sentence
 
 
 
